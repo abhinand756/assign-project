@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/assign-project/static/css/main.33c4ebb0.css",
-    "main.js": "/assign-project/static/js/main.bfa0a377.js",
+    "main.js": "/assign-project/static/js/main.db100721.js",
     "static/media/img3.jpg": "/assign-project/static/media/img3.14379b77f9e9c84cc57a.jpg",
     "static/media/construction.jpg": "/assign-project/static/media/construction.08d8cf89506d4674f0d5.jpg",
     "static/media/img1.jpg": "/assign-project/static/media/img1.0086534c2986498d8266.jpg",
@@ -11,10 +11,10 @@
     "static/media/cart-icon.png": "/assign-project/static/media/cart-icon.d3fca992fac1fbd63558.png",
     "index.html": "/assign-project/index.html",
     "main.33c4ebb0.css.map": "/assign-project/static/css/main.33c4ebb0.css.map",
-    "main.bfa0a377.js.map": "/assign-project/static/js/main.bfa0a377.js.map"
+    "main.db100721.js.map": "/assign-project/static/js/main.db100721.js.map"
   },
   "entrypoints": [
     "static/css/main.33c4ebb0.css",
-    "static/js/main.bfa0a377.js"
+    "static/js/main.db100721.js"
   ]
 }
