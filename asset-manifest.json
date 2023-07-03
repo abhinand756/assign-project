@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/assign-project/static/css/main.33c4ebb0.css",
-    "main.js": "/assign-project/static/js/main.f0022288.js",
+    "main.css": "/assign-project/static/css/main.852449ed.css",
+    "main.js": "/assign-project/static/js/main.174026fe.js",
     "static/media/img3.jpg": "/assign-project/static/media/img3.14379b77f9e9c84cc57a.jpg",
     "static/media/construction.jpg": "/assign-project/static/media/construction.08d8cf89506d4674f0d5.jpg",
     "static/media/img1.jpg": "/assign-project/static/media/img1.0086534c2986498d8266.jpg",
-    "static/media/product.png": "/assign-project/static/media/product.8eddb532a816881a5abf.png",
-    "static/media/logo-hm.png": "/assign-project/static/media/logo-hm.a15af88733e6426d0700.png",
+    "static/media/logo-hm.png": "/assign-project/static/media/logo-hm.3d21c7c5312a787bc972.png",
+    "static/media/rating-star.png": "/assign-project/static/media/rating-star.ee52379e0a49f7a31a6f.png",
     "static/media/img2.avif": "/assign-project/static/media/img2.d9f4dc9c3e3c85031f06.avif",
     "static/media/cart-icon.png": "/assign-project/static/media/cart-icon.d3fca992fac1fbd63558.png",
     "index.html": "/assign-project/index.html",
-    "main.33c4ebb0.css.map": "/assign-project/static/css/main.33c4ebb0.css.map",
-    "main.f0022288.js.map": "/assign-project/static/js/main.f0022288.js.map"
+    "main.852449ed.css.map": "/assign-project/static/css/main.852449ed.css.map",
+    "main.174026fe.js.map": "/assign-project/static/js/main.174026fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.33c4ebb0.css",
-    "static/js/main.f0022288.js"
+    "static/css/main.852449ed.css",
+    "static/js/main.174026fe.js"
   ]
 }
